@@ -19,7 +19,7 @@ After training the GAN for 30 epochs, the generator is capable of producing high
 
 you can train for more epochs for better results
 
-## Improvement Over Time (AVI file)
+## Improvement Over Time
 The project includes an AVI file showcasing the improvement in the generation of art portraits over time during the training process. The AVI file provides a visual representation of how the quality of the generated portraits evolves with each training iteration.
 
 [Watch the video](gans_training.mp4)
