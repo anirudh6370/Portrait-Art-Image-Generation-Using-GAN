@@ -1,6 +1,6 @@
 # GAN for Art Portraits Generation
 
-![Generated Art Portraits](example_generated_portraits.png)
+![Generated Art Portraits](GAN_generated.png)
 
 ## Overview
 This project explores the use of Generative Adversarial Networks (GANs) to generate art portraits. The GAN architecture is trained on a dataset of art portraits and learns to generate realistic-looking portraits.
@@ -22,8 +22,6 @@ you can train for more epochs for better results
 ## Improvement Over Time (AVI file)
 The project includes an AVI file showcasing the improvement in the generation of art portraits over time during the training process. The AVI file provides a visual representation of how the quality of the generated portraits evolves with each training iteration.
 
-Download the AVI file to view the improvement in the generation of art portraits over time:
-[Download AVI file](./gans_training.avi)
-<!-- C:\Users\anirudh\Desktop\GAN\gans_training.avi -->
+[Watch the video](gans_training.mp4)
 
 
